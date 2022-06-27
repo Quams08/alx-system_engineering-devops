@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Filo 0 is a script that prints "Hello, World" followed by a new lone to standard output.
 
 File 1-confused_smiley is a script that displays a confused smiley "(Ôo)'.
@@ -58,4 +59,4 @@ include capital letters as well
 
 102-acrostic: is a script that decodes acrostics that use the first letter of each line.
 
-103-the_biggest_fan: is a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests. 
+103-the_biggest_fan: is a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
